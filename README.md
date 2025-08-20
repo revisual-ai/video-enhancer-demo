@@ -20,7 +20,7 @@
 ## 📷 Demo Preview
 Here is a preview of the results:
 
-![Demo Result](./demo/before_after.png)
+![Demo Result](./demo/before_after.gif)
 
 ---
 
